@@ -13,8 +13,9 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Clone this repo:
 
 ```bash
-git clone https://github.com/pckennethma/halo2-graph.git
-cd halo2-graph
+git clone https://github.com/HKUST-Franky/QMC-ZKP.git
+
+cd QMC-ZKP
 ```
 
 ## Quick Start with `Quasi-Monte-Carlo`
